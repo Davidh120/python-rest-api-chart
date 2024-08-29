@@ -3,12 +3,12 @@ entries:
   desarrollo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-29T00:54:15.068976416Z"
+    created: "2024-08-29T00:59:32.051106312Z"
     description: A Helm chart for Kubernetes
-    digest: ccc2a983be9aeef0f650891dc9a6f57bec5c06ff5ab9e72243c8af397725b2d2
+    digest: 57ceebab5459d4dc039b3fc64d36b3f670cd5ec61c0c2109c27ce0042ad96d28
     name: desarrollo
     type: application
     urls:
     - https://davidh120.github.io/python-rest-api-chart/desarrollo-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-29T00:54:15.068078607Z"
+generated: "2024-08-29T00:59:32.050224789Z"
